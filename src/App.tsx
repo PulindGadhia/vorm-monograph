@@ -13,8 +13,6 @@ import {
   Sparkles,
   Plus,
   Minus,
-  Compass,
-  Shield,
   Layers,
   ChevronRight,
   ChevronLeft,
